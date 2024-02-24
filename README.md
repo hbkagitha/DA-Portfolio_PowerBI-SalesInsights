@@ -1,4 +1,4 @@
-# Power BI Project for Beginners: Sales Insights Dashboard #
+# Power BI Project: Sales Insights Dashboard #
 
 ### Project Overview ###
 

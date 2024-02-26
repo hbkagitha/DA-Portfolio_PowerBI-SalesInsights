@@ -1,9 +1,5 @@
 # Power BI Project: Sales Insights Dashboard #
 
-### Project Overview ###
-
-This project guides you through creating a sales insights dashboard using Power BI.
-
 ### Project Goal  ###
 - Develop a data analysis framework and dashboard using the AIMS grid and Power BI.
 - Clean, transform, and model sales data for effective analysis.

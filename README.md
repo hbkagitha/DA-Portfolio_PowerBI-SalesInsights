@@ -20,3 +20,11 @@
 - Create effective calculated columns and measures.
 - Design informative and interactive visualizations.
 - Build and share a comprehensive sales insights dashboard.
+
+![Dashboard-1](https://github.com/hbkagitha/DA-Portfolio_PowerBI-SalesInsights/blob/main/D1.png)
+
+
+![Dashboard-2](https://github.com/hbkagitha/DA-Portfolio_PowerBI-SalesInsights/blob/main/D2.png)
+
+
+![Dashboard-3](https://github.com/hbkagitha/DA-Portfolio_PowerBI-SalesInsights/blob/main/D3.png)
